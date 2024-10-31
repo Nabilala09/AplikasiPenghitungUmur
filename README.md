@@ -5,13 +5,13 @@ Aplikasi Penghitung Umur ini memungkinkan pengguna untuk menghitung umur berdasa
 
 ## Author
 
-*Nama       : Nabila Parastiwi*
-*NPM        : 2210010420*
-*Kelas      : Reguler 5A Pagi Banjarmasin*
-*Mata Kuliah    : Pemngoraman Berbasis Objek 2*
-*Jurusan    : Teknik Informatika - TI*
-*Falkutas   : Teknologi Informatika* 
-*Kampus     : Uvinersitas Islam Kalimantan Muhammad Arsyad Al-Banjari* 
+- Nama       : Nabila Parastiwi
+- NPM        : 2210010420
+- Kelas      : Reguler 5A Pagi Banjarmasin
+- Mata Kuliah: Pemngoraman Berbasis Objek 2
+- Jurusan    : Teknik Informatika - TI
+- Falkutas   : Teknologi Informatika
+- Kampus     : Uvinersitas Islam Kalimantan Muhammad Arsyad Al-Banjari
 
 
 ## Instalasi
