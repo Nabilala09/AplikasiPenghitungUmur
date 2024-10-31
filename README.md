@@ -3,6 +3,17 @@
 
 Aplikasi Penghitung Umur ini memungkinkan pengguna untuk menghitung umur berdasarkan tanggal lahir yang dimasukkan. Aplikasi juga menampilkan informasi tentang hari ulang tahun berikutnya serta peristiwa penting yang terjadi pada tanggal tersebut.
 
+## Author
+
+*Nama       : Nabila Parastiwi*
+*NPM        : 2210010420*
+*Kelas      : Reguler 5A Pagi Banjarmasin*
+*Mata Kuliah    : Pemngoraman Berbasis Objek 2*
+*Jurusan    : Teknik Informatika - TI*
+*Falkutas   : Teknologi Informatika* 
+*Kampus     : Uvinersitas Islam Kalimantan Muhammad Arsyad Al-Banjari* 
+
+
 ## Instalasi
 Untuk menjalankan proyek ini di komputer Anda, ikuti 
 langkah-langkah berikut:
@@ -28,16 +39,6 @@ Kami menerima kontribusi untuk meningkatkan aplikasi ini. Jika Anda ingin berkon
 ## Lisensi
 
 Proyek ini dilisensikan di bawah lisensi MIT. Silakan lihat file LICENSE untuk informasi lebih lanjut.
-
-## Author
-
-*Nama       : Nabila Parastiwi*
-*NPM        : 2210010420*
-*Kelas      : Reguler 5A Pagi Banjarmasin*
-*Mata Kuliah    : Pemngoraman Berbasis Objek 2*
-*Jurusan    : Teknik Informatika - TI*
-*Falkutas   : Teknologi Informatika* 
-*Kampus     : Uvinersitas Islam Kalimantan Muhammad Arsyad Al-Banjari* 
 
 ## Teknologi yang Digunakan
 - *Bahasa Pemrograman:* Java
