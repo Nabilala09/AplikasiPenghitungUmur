@@ -6,7 +6,7 @@ Aplikasi Penghitung Umur ini memungkinkan pengguna untuk menghitung umur berdasa
 ## Instalasi
 Untuk menjalankan proyek ini di komputer Anda, ikuti 
 langkah-langkah berikut:
-1. Clone repository ini: git clone https://github.com/username/repository-name.git
+1. Clone repository ini: git clone https://github.com/Nabilala09/AplikasiPenghitungUmur.git
 2. Masuk ke folder proyek: cd repository-name
 3. Tambahkan library eksternal (JCalendar, JSON-Java) ke dalam proyek.
 4. Jalankan proyek di NetBeans atau IDE lain yang mendukung Java.
@@ -37,10 +37,7 @@ Proyek ini dilisensikan di bawah lisensi MIT. Silakan lihat file LICENSE untuk i
 *Mata Kuliah    : Pemngoraman Berbasis Objek 2*
 *Jurusan    : Teknik Informatika - TI*
 *Falkutas   : Teknologi Informatika* 
-*Kampus     : Uvinersitas Islam Kalimantan Muhammad Arsyad Al-Banjari*  
-
-## Penghargaan
-Terima kasih kepada semua pihak yang mendukung pengembangan proyek ini.
+*Kampus     : Uvinersitas Islam Kalimantan Muhammad Arsyad Al-Banjari* 
 
 ## Teknologi yang Digunakan
 - *Bahasa Pemrograman:* Java
